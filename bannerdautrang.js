@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='hhttp://millenniums-masteri.com/gia-can-ho-masteri-quan-4-millennium/' target='_blank'><img src='http://millenniums-masteri.com/wp-content/uploads/2016/07/Masteri-quan-4-millennium-du-an-dau-tu-tot-2016.jpg' width='500px'/><br/>13 Kỹ thuật đẩy top vượt trội</a>. Học tại nhà CEO Faceseo. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='hhttp://millenniums-masteri.com/gia-can-ho-masteri-quan-4-millennium/' target='_blank'><img src='http://millenniums-masteri.com/wp-content/uploads/2016/07/Masteri-quan-4-millennium-du-an-dau-tu-tot-2016.jpg' width='500px'/><br/>MỞ BÁN CĂN HỘ MASTERI QUẬN 4 </a>. MILLENNIUM - CĂN HỘ GIÁ TỐT NHẤT KHU VỰC. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
