@@ -1,8 +1,8 @@
 
-	var url_popup = 'http://millenniums-masteri.com/';
+	var url_popup = 'https://bit.ly/2r37SFT';
 
       //<![CDATA[
-	  // var url_ppp = 'http://millenniums-masteri.com';
+	  // var url_ppp = 'https://vistadecor.vn';
       function addEvent(obj, eventName, func){
         if (obj.attachEvent)
         {
